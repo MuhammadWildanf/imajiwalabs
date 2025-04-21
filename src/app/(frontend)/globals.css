@@ -1,0 +1,10 @@
+/* Import semua file CSS eksternal */
+@import url("/assets/frontend/css/bootstrap.min.css");
+@import url("/assets/frontend/css/fontawesome.css");
+@import url("/assets/frontend/css/magnific-popup.css");
+@import url("/assets/frontend/css/nice-select.css");
+@import url("/assets/frontend/css/slick-slider.css");
+@import url("/assets/frontend/css/owl.carousel.min.css");
+@import url("/assets/frontend/css/aos.css");
+@import url("/assets/frontend/css/mobile-menu.css");
+@import url("/assets/frontend/css/main.css");
